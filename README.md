@@ -1,6 +1,6 @@
 # WWW2025 Workshop
 
-**Baseline code is released**
+**Baseline code is released.**
 
 **The PAB dataset is released at [Baidu Yun](https://pan.baidu.com/s/1gqY6DuTL-EStXlH0dz05ng) [mdjb] and [OneDrive](https://1drv.ms/f/c/afc02d7952f9b34d/Epb3qCEwsMJOjYIx-sMm_rkBbZfyiD8I-bRmLp0X-rT1vQ?e=7gyGco).**
 
