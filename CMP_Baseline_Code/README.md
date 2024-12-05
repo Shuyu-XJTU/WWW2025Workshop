@@ -175,7 +175,7 @@ And organize PAB in `../data/PAB` folder as follows:
 ```
 
 ### Training
-We train our CMP using PAB as follows：
+We train Baseline using PAB as follows：
 
 ```
 python3 run.py --task "baseline" --dist "f4" --output_dir "output/baseline"
