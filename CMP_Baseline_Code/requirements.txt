@@ -1,0 +1,7 @@
+ruamel_yaml
+prettytable
+transformers
+scipy
+timm
+opencv-python
+nltk
