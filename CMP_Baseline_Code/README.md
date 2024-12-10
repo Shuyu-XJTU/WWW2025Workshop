@@ -180,6 +180,7 @@ We train Baseline using PAB as follows：
 ```
 python3 run.py --task "baseline" --dist "f4" --output_dir "output/baseline"
 ```
+Note: To prevent the leakage of ground truth information from the test set, we have masked the image names within the test set and concealed the true matching relationships between queries and gallery images. We have released only a masked version of the test set for this competition. Following the competition's conclusion, we plan to release the complete test set along with detailed attribute annotations. If you intend to reproduce the baseline results, modifications to accommodate the changes in the test set content will be necessary.
 
 [//]: # (### Evaluation)
 
